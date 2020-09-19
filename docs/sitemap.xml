@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/post/testimg/</loc>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/even-preview/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -17,70 +24,70 @@
   
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/categories/category-2/</loc>
-    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/categories/category-3/</loc>
-    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/preview/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/tag-3/</loc>
-    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/theme-preview/</loc>
-    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/categories/theme-preview/</loc>
-    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -235,12 +242,6 @@
   <url>
     <loc>http://localhost:1313/tags/tag-5/</loc>
     <lastmod>2018-11-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/testimg/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
